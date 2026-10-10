@@ -1,0 +1,3 @@
+PySide6>=6.5
+numpy>=1.22
+# Optional, for LaTeX labels: a TeX installation with latex and dvisvgm (TeX Live or MiKTeX)
